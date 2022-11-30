@@ -3,6 +3,11 @@
 - 🌱 I’m currently learning new skills like coding...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+<div align="center">
+<a href="https://www.linkedin.com/in/ritika-agarwal-aba599185" >
+    <img src="https://img.shields.io/badge/Contact Me-white?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
+  </a> 
+</div>
 
 <!---
 RitikaAga/RitikaAga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
