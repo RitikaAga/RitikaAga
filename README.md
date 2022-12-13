@@ -9,7 +9,7 @@
   </a> 
 </div>
 
-Visited:                   [![HitCount](https://hits.dwyl.com/RitikaAga/RitikaAga.svg?style=flat-square)](http://hits.dwyl.com/RitikaAga/RitikaAga)
+Visited:<p>                       </p>[![HitCount](https://hits.dwyl.com/RitikaAga/RitikaAga.svg?style=flat-square)](http://hits.dwyl.com/RitikaAga/RitikaAga)
 
 <!---
 RitikaAga/RitikaAga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
