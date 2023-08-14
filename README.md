@@ -11,8 +11,6 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Ritika</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikaaga&label=Profile%20views&color=0e75b6&style=flat" alt="ritikaaga" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritikaaga" alt="ritikaaga" /></a> </p>
 
 - 🌱 I’m currently learning **Node.js**
@@ -53,6 +51,6 @@ You can click the Preview link to take a look at your changes.
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ritikaaga&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
